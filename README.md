@@ -7,7 +7,7 @@ Based on the geological exploration data, select an oil production area
 Mining companies
 ## Direction of activity:
 - Machine learning
-- - Regression
+- Regression
 - Development of a business model
 - Financial analyst
 ## Skills and Tools:
