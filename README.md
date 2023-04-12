@@ -10,7 +10,7 @@ Mining companies
 - - Regression
 - Development of a business model
 - Financial analyst
-## ## Skills and Tools:
+## Skills and Tools:
 - Pandas
 - Scikit-learn
 - bootstrap
